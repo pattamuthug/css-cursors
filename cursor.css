@@ -1,0 +1,94 @@
+.para1{
+    cursor: alias;
+}
+.para2{
+    cursor: all-scroll;
+}
+.para3{
+    cursor: auto;
+}
+.para4{
+    border: solid 2px red;
+    cursor: cell;
+}
+.para5{
+    cursor: col-resize;
+}
+table,th,tr{
+    border: solid 2px red;
+}
+.para6{
+    cursor: context-menu;
+}
+.para7{
+    cursor: copy;
+}
+.para8{
+    cursor: crosshair;
+}
+.para9{
+    cursor: default;
+}
+.para10{
+    cursor: e-resize;
+}
+.para11{
+    cursor: ew-resize;
+}
+.para12{
+    cursor: grab;
+}
+.para13{
+    cursor: grabbing;
+}
+.para14{
+    cursor: help;
+}
+.para15{
+    cursor: move;
+}
+.para16{
+    cursor: n-resize;
+}
+.para17{
+    cursor: ne-resize;
+}
+.para18{
+    cursor: no-drop;
+}
+.para19{
+    cursor: none;
+}
+.para20{
+    cursor: not-allowed;
+}
+.para21{
+    cursor: pointer;
+}
+.para22{
+    cursor: progress;
+}
+.para23{
+    cursor: row-resize;
+}
+.para24{
+    cursor: s-resize;
+}
+.para25{
+    cursor: text;
+}
+.para26{
+    cursor: vertical-text;
+}
+.para27{
+    cursor: wait;
+}
+.para28{
+    cursor: zoom-in;
+}
+.para29{
+    cursor: zoom-out;
+}
+.para30{
+    cursor: sw-resize;
+}
